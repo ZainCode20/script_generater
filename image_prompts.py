@@ -1,0 +1,18 @@
+image_prompts = [
+    'Jason rummages through a trash can, his empty stomach growling with hunger and desperation.',
+    'Exhausted and malnourished, Jason sits in an alleyway, eyes fixed on a dumpster.',
+    "A waiter tosses out a tray of leftover food, and Jason's eyes light up with hope.",
+    'Jason devours food scraps from the tray, his eyes darting around nervously.',
+    "Back in his makeshift bed, Jason's belly full finally, his eyes reflect exhaustion and despair.",
+    'Jason approaches a street performer, juggling food scraps, his eyes pleading for help.',
+    'The juggler hesitates, then tosses Jason a granola bar, his face stern.',
+    'Jason eats the granola bar, gratitude and shame mingling on his face.',
+    'On a bench, Jason contemplates his life, shame and regret written on his face.',
+    'Sarah, a social worker, sits beside Jason, eyes filled with compassion and concern.',
+    'Sarah offers Jason a lifeline, a chance at a hot meal and a hopeful future.',
+    'Jason looks at Sarah, uncertainty on his face, as hope and doubt battle.',
+    "Sarah's kind hands guide Jason up from the bench, as trust begins to form.",
+    'Together, Jason and Sarah walk away from the struggles of the street, towards a brighter tomorrow.',
+    'As they disappear into the distance, a dumpster looms behind, a reminder of the struggles that remain.',
+    'The setting sun casts a golden glow, as Jason and Sarah find a glimmer of hope on the horizon.',
+]
